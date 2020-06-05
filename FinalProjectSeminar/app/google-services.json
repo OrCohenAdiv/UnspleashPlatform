@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "61477149047",
+    "firebase_url": "https://final-projecr---seminar.firebaseio.com",
+    "project_id": "final-projecr---seminar",
+    "storage_bucket": "final-projecr---seminar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61477149047:android:7b6efcb238a494c800e972",
+        "android_client_info": {
+          "package_name": "com.example.finalproject_seminar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61477149047-qoo41gpaekhrpmcea35nbt0l768hacaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalproject_seminar",
+            "certificate_hash": "799b7cfc2c1aaa73bba2e1878660038cc82e7328"
+          }
+        },
+        {
+          "client_id": "61477149047-3pq6uf3qq0n74ictp1l18ug0005cqum4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPEBDGq5DvS4Udrk3DvpyW9RI-Vhkc1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61477149047-3pq6uf3qq0n74ictp1l18ug0005cqum4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
