@@ -1,12 +1,11 @@
 <resources>
     <string name="app_name">MyUnspleshPlatform</string>
-    <string name="unsplesh_platform">Unsplesh Platform</string>
+    <string name="unsplash_platform">Unsplash Platform</string>
     <string name="register">REGISTER</string>
     <string name="log_in">LOG-IN</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="login_title">Login</string>
-    <string name="registar">Registar</string>
     <string name="signout">Signout</string>
     <string name="create_act">Create Account</string>
     <string name="post_title">Post Title...</string>
